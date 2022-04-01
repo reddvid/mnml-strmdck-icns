@@ -10,6 +10,14 @@ Setting the device is easier but I felt like some icon designs (the ones I neede
 
 So I try to make my own minimal but on-context (for me) icons.
 
+## Previews
+
+![Default Profile](/previews/profile-default.png)
+![Websites Folder](/previews/folder-websites.png)
+![Figma Smart Profile](/previews/profile-figma.png)
+
+## Tools/Resources
+
 Big thanks for the free & open tools and resources I used:
 
 - Figma (and it's Community)
