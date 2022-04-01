@@ -12,9 +12,9 @@ So I try to make my own minimal but on-context (for me) icons.
 
 ## Previews
 
-![Default Profile](/previews/profile-default.png)
-![Websites Folder](/previews/folder-websites.png)
-![Figma Smart Profile](/previews/profile-figma.png)
+![Elgato Stream Deck MK.2 Default Profile Preview](/previews/profile-default.png "Default Profile")
+![Elgato Stream Deck MK.2 Websites Folder Preview](/previews/folder-websites.png "Websites Folder")
+![Elgato Stream Deck MK.2 Figma Smart Profile Preview](/previews/profile-figma.png "Figma Smart Profile")
 
 ## Tools/Resources
 
