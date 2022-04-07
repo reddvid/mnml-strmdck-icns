@@ -2,6 +2,8 @@
 
 ---
 
+\*\*Ok, these icons aren't minimal after all - especially icons for apps - they're just HD compared to the ones fetched from the app.
+
 I recently bought an Elgato Stream Deck MK.2 which I should've made long ago.
 
 I actually never thought that the deck can be used without the "unchangeable" height stand. So far putting it on the table works just fine.
